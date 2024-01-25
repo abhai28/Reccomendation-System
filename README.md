@@ -23,7 +23,7 @@ To get started with this project, clone the repository and install the necessary
 
 ```
 git clone https://github.com/abhai28/Reccomendation-System.git
-cd [Project Folder]
+cd Reccomendation-System
 ```
 
 ## Usage
